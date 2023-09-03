@@ -1,0 +1,60 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1d931936551a70843850eaadfc0ea97e, type: 3}
+  m_Name: Anm_00000001
+  m_EditorClassIdentifier: 
+  AnimationSetList:
+  - Label: 1
+    IsLoopMotion: 1
+    ClipSetArray:
+    - AnimationClip: {fileID: 7400000, guid: 95395f54807448645a1d9e97efb1fe2a, type: 2}
+      IsLoopMotion: 0
+      IsApplyRootMotion: 0
+      IsMoveManual: 0
+      MoveManualSpeed: 0
+      IsLeftIK: 0
+      LeftIKIndex: 0
+      IsRightIK: 0
+      RightIKIndex: 0
+      IsSameAnime: 0
+      Speed: 1
+      LerpTime: 0.1
+  - Label: 2
+    IsLoopMotion: 1
+    ClipSetArray:
+    - AnimationClip: {fileID: 7400000, guid: 88466d14d84608648b6d74c22a5064b3, type: 2}
+      IsLoopMotion: 0
+      IsApplyRootMotion: 0
+      IsMoveManual: 0
+      MoveManualSpeed: 0
+      IsLeftIK: 0
+      LeftIKIndex: 0
+      IsRightIK: 0
+      RightIKIndex: 0
+      IsSameAnime: 0
+      Speed: 1
+      LerpTime: 0.1
+  - Label: 3
+    IsLoopMotion: 1
+    ClipSetArray:
+    - AnimationClip: {fileID: 7400000, guid: 94951a28beef88444a546d9a04c9b36c, type: 2}
+      IsLoopMotion: 0
+      IsApplyRootMotion: 0
+      IsMoveManual: 0
+      MoveManualSpeed: 0
+      IsLeftIK: 0
+      LeftIKIndex: 0
+      IsRightIK: 0
+      RightIKIndex: 0
+      IsSameAnime: 0
+      Speed: 1
+      LerpTime: 0.1
